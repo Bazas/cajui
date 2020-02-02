@@ -3,3 +3,4 @@ WebView em React Native para exposição de paginas prontas web. fou desenvolvid
 
 
 #Para executar Instale o nmp init
+**erro inesperado tem que atualizar a libs.
